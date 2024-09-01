@@ -23,4 +23,4 @@ The final project can be found in the following GitHub repository:
 ## Instructors
 
 - **[Amirali Vahidi](https://github.com/Mohta3b)**
-- **[Pouria Tajmehrabi](https://github.com/)**
+- **[Pouria Tajmehrabi](https://github.com/SyntheticDemon)**
